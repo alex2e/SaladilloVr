@@ -3,7 +3,6 @@
 // Curso 2017-2018
 // SphereScript.cs
 ///////////////////////////////
-
 using UnityEngine;
 
 public class SphereScript : MonoBehaviour
@@ -17,7 +16,6 @@ public class SphereScript : MonoBehaviour
 	/// </summary>
 	public Material sphereHoverMaterial;
 	
-
 	/// <summary>
 	/// Cuando se inicia el Script.
 	/// </summary>
