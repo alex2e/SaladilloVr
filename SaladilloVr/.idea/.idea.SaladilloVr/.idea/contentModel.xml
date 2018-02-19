@@ -361,6 +361,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CustomPointerTimer.cs" t="Include" />
+          <e p="MoveJostick.cs" t="Include" />
+          <e p="MovementDisc.cs" t="Include" />
           <e p="PlayAnimation.cs" t="Include" />
           <e p="ScrollDown.cs" t="Include" />
           <e p="SphereScript.cs" t="Include" />

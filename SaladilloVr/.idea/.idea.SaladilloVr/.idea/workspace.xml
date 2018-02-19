@@ -11,55 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CustomPointerTimer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <file leaf-file-name="MoveJostick.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="233">
+              <caret line="30" column="113" lean-forward="false" selection-start-line="30" selection-start-column="113" selection-end-line="30" selection-end-column="113" />
               <folding>
-                <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-                <marker date="1518767883771" expanded="true" signature="142:176" ph="..." />
-                <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-                <marker date="1518767883771" expanded="false" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-                <marker date="1518767883771" expanded="false" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-                <marker date="1518767883771" expanded="false" signature="493:541" ph="/// Temporizador. ... " />
-                <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-                <marker date="1518767883771" expanded="false" signature="670:726" ph="/// Cuando está contando. ... " />
-                <marker date="1518767883771" expanded="false" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-                <marker date="1518767883771" expanded="false" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
-                <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
-                <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
-                <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
-                <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
-                <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-                <marker date="1518767883771" expanded="false" signature="1863:1933" ph="{...}" />
-                <marker date="1518767883771" expanded="false" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
-                <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-                <marker date="1518767883771" expanded="false" signature="2199:2255" ph="/// Para el temporizador. ... " />
-                <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayAnimation.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <marker date="1518767783778" expanded="true" signature="0:131" ph="/* Alejandro Santillana Ruiz ... */" />
-                <marker date="1518767783778" expanded="true" signature="195:1833" ph="{...}" />
-                <marker date="1518767783778" expanded="false" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
-                <marker date="1518767783778" expanded="false" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
-                <marker date="1518767783778" expanded="false" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
-                <marker date="1518767783778" expanded="false" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
-                <marker date="1518767783778" expanded="true" signature="678:1286" ph="{...}" />
-                <marker date="1518767783778" expanded="true" signature="1023:1283" ph="{...}" />
-                <marker date="1518767783778" expanded="false" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
-                <marker date="1518767783778" expanded="true" signature="1405:1577" ph="{...}" />
-                <marker date="1518767783778" expanded="false" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
-                <marker date="1518767783778" expanded="true" signature="1693:1831" ph="{...}" />
+                <marker date="1519031173088" expanded="false" signature="6:78" ph="..." />
+                <marker date="1519031173088" expanded="true" signature="121:1006" ph="{...}" />
+                <marker date="1519031173088" expanded="true" signature="126:196" ph="/// Máxima velocidad de desplazamiento. ... " />
+                <marker date="1519031173088" expanded="true" signature="231:283" ph="/// Fuerza de empuje. ... " />
+                <marker date="1519031173088" expanded="true" signature="318:395" ph="/// Referencia al Rigibody que queremos mover. ... " />
+                <marker date="1519031173088" expanded="true" signature="440:486" ph="{...}" />
+                <marker date="1519031173088" expanded="true" signature="511:1004" ph="{...}" />
+                <marker date="1519031173088" expanded="true" signature="944:1001" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,8 +34,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/0a/cfc1beb8/StackTraceUtility.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -81,6 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs" />
       </list>
     </option>
   </component>
@@ -91,8 +60,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1988" />
-    <option name="y" value="181" />
+    <option name="x" value="185" />
+    <option name="y" value="241" />
     <option name="width" value="1440" />
     <option name="height" value="785" />
   </component>
@@ -144,7 +113,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="19792" />
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -163,11 +132,12 @@
       <workItem from="1518698934189" duration="4000" />
       <workItem from="1518700036893" duration="1579000" />
       <workItem from="1518765971953" duration="2742000" />
+      <workItem from="1519028259001" duration="2371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5546000" />
+    <option name="totallyTimeSpent" value="7917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,7 +149,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="26" width="1938" height="1063" extended-state="6" />
+    <frame x="-9" y="26" width="1938" height="1063" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -219,135 +189,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767883771" expanded="true" signature="142:176" ph="..." />
-            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-            <marker date="1518767883771" expanded="false" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-            <marker date="1518767883771" expanded="false" signature="493:541" ph="/// Temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-            <marker date="1518767883771" expanded="false" signature="670:726" ph="/// Cuando está contando. ... " />
-            <marker date="1518767883771" expanded="false" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-            <marker date="1518767883771" expanded="false" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
-            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="1863:1933" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
-            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="2199:2255" ph="/// Para el temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518766078337" expanded="true" signature="0:130" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518766078337" expanded="true" signature="192:1139" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="196:281" ph="/// Material de la esfera cuando no está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="316:398" ph="/// Material de la esfera cuando está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="440:582" ph="/// Cuando se inicia el Script. ... " />
-            <marker date="1518766078337" expanded="false" signature="597:658" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="660:800" ph="/// Cuando se empieza a mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="829:894" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="898:1045" ph="/// Cuando se deja de mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="1077:1137" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518766078337" expanded="true" signature="0:130" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518766078337" expanded="true" signature="192:1139" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="196:281" ph="/// Material de la esfera cuando no está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="316:398" ph="/// Material de la esfera cuando está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="440:582" ph="/// Cuando se inicia el Script. ... " />
-            <marker date="1518766078337" expanded="false" signature="597:658" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="660:800" ph="/// Cuando se empieza a mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="829:894" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="898:1045" ph="/// Cuando se deja de mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="1077:1137" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1518766078337" expanded="true" signature="0:130" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518766078337" expanded="true" signature="192:1139" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="196:281" ph="/// Material de la esfera cuando no está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="316:398" ph="/// Material de la esfera cuando está siendo mirada ... " />
-            <marker date="1518766078337" expanded="false" signature="440:582" ph="/// Cuando se inicia el Script. ... " />
-            <marker date="1518766078337" expanded="false" signature="597:658" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="660:800" ph="/// Cuando se empieza a mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="829:894" ph="{...}" />
-            <marker date="1518766078337" expanded="false" signature="898:1045" ph="/// Cuando se deja de mirar la esfera. ... " />
-            <marker date="1518766078337" expanded="false" signature="1077:1137" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <marker date="1518766016090" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518766016090" expanded="true" signature="196:363" ph="{...}" />
-            <marker date="1518766016090" expanded="true" signature="246:299" ph="{...}" />
-            <marker date="1518766016090" expanded="true" signature="354:361" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/0a/cfc1beb8/StackTraceUtility.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
+        <state relative-caret-position="280">
           <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767883771" expanded="true" signature="142:176" ph="..." />
+            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
             <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-            <marker date="1518767883771" expanded="false" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-            <marker date="1518767883771" expanded="false" signature="493:541" ph="/// Temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
+            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
             <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-            <marker date="1518767883771" expanded="false" signature="670:726" ph="/// Cuando está contando. ... " />
-            <marker date="1518767883771" expanded="false" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-            <marker date="1518767883771" expanded="false" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
+            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
+            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
+            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
             <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
             <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
             <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
             <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
             <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="1863:1933" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
             <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-            <marker date="1518767883771" expanded="false" signature="2199:2255" ph="/// Para el temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
             <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
           </folding>
         </state>
@@ -355,21 +218,175 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="360">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <marker date="1518767783778" expanded="true" signature="0:131" ph="/* Alejandro Santillana Ruiz ... */" />
             <marker date="1518767783778" expanded="true" signature="195:1833" ph="{...}" />
-            <marker date="1518767783778" expanded="false" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
-            <marker date="1518767783778" expanded="false" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
-            <marker date="1518767783778" expanded="false" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
-            <marker date="1518767783778" expanded="false" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
+            <marker date="1518767783778" expanded="true" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
+            <marker date="1518767783778" expanded="true" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
+            <marker date="1518767783778" expanded="true" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1518767783778" expanded="true" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
             <marker date="1518767783778" expanded="true" signature="678:1286" ph="{...}" />
             <marker date="1518767783778" expanded="true" signature="1023:1283" ph="{...}" />
-            <marker date="1518767783778" expanded="false" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+            <marker date="1518767783778" expanded="true" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
             <marker date="1518767783778" expanded="true" signature="1405:1577" ph="{...}" />
-            <marker date="1518767783778" expanded="false" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
+            <marker date="1518767783778" expanded="true" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
             <marker date="1518767783778" expanded="true" signature="1693:1831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
+            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
+            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
+            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
+            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
+            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
+            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
+            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/0a/cfc1beb8/StackTraceUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <marker date="1519028807814" expanded="true" signature="6:118" ph="..." />
+            <marker date="1519028807814" expanded="true" signature="161:1224" ph="{...}" />
+            <marker date="1519028807814" expanded="false" signature="165:235" ph="/// Máxima velocidad de desplazamiento. ... " />
+            <marker date="1519028807814" expanded="false" signature="270:322" ph="/// Fuerza de empuje. ... " />
+            <marker date="1519028807814" expanded="false" signature="357:425" ph="/// Nos indica si esta siendo mirada. ... " />
+            <marker date="1519028807814" expanded="false" signature="470:547" ph="/// Referencia al Rigibody que queremos mover. ... " />
+            <marker date="1519028807814" expanded="true" signature="626:633" ph="{...}" />
+            <marker date="1519028807814" expanded="true" signature="693:915" ph="{...}" />
+            <marker date="1519028807814" expanded="true" signature="709:909" ph="{...}" />
+            <marker date="1519028807814" expanded="true" signature="760:905" ph="{...}" />
+            <marker date="1519028807814" expanded="false" signature="917:1007" ph="/// Acciones a realizar para el eventeo de mirara el disco. ... " />
+            <marker date="1519028807814" expanded="true" signature="1041:1065" ph="{...}" />
+            <marker date="1519028807814" expanded="false" signature="1067:1164" ph="/// Acciones a realizar para el evento de dejar de mirar el disco. ... " />
+            <marker date="1519028807814" expanded="true" signature="1197:1222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1518767783778" expanded="true" signature="0:131" ph="/* Alejandro Santillana Ruiz ... */" />
+            <marker date="1518767783778" expanded="true" signature="195:1833" ph="{...}" />
+            <marker date="1518767783778" expanded="true" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
+            <marker date="1518767783778" expanded="true" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
+            <marker date="1518767783778" expanded="true" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1518767783778" expanded="true" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
+            <marker date="1518767783778" expanded="true" signature="678:1286" ph="{...}" />
+            <marker date="1518767783778" expanded="true" signature="1023:1283" ph="{...}" />
+            <marker date="1518767783778" expanded="true" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+            <marker date="1518767783778" expanded="true" signature="1405:1577" ph="{...}" />
+            <marker date="1518767783778" expanded="true" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
+            <marker date="1518767783778" expanded="true" signature="1693:1831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
+            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
+            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
+            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
+            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
+            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
+            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
+            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
+            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
+            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="30" column="113" lean-forward="false" selection-start-line="30" selection-start-column="113" selection-end-line="30" selection-end-column="113" />
+          <folding>
+            <marker date="1519031173088" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519031173088" expanded="true" signature="121:1006" ph="{...}" />
+            <marker date="1519031173088" expanded="true" signature="126:196" ph="/// Máxima velocidad de desplazamiento. ... " />
+            <marker date="1519031173088" expanded="true" signature="231:283" ph="/// Fuerza de empuje. ... " />
+            <marker date="1519031173088" expanded="true" signature="318:395" ph="/// Referencia al Rigibody que queremos mover. ... " />
+            <marker date="1519031173088" expanded="true" signature="440:486" ph="{...}" />
+            <marker date="1519031173088" expanded="true" signature="511:1004" ph="{...}" />
+            <marker date="1519031173088" expanded="true" signature="944:1001" ph="{...}" />
           </folding>
         </state>
       </provider>
