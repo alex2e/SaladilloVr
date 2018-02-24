@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿///////////////////////////////////////////
+/// Práctica: SaladilloVr
+/// Alumno/a: Alejandro Santillana
+/// Curso: 2017/2018
+/// Fichero: MoveJostick.cs
+///////////////////////////////////////////
 using UnityEngine;
 
 public class MoveJostick : MonoBehaviour {

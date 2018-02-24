@@ -1,6 +1,6 @@
 ﻿///////////////////////////////
-// Alejandro Santillana Ruiz
-// Curso 2017-2018
+// Práctica: SaladilloVr
+// Alumno/a: Alejandro Santillana
 // CustomPointerTime.cs
 ///////////////////////////////
 using UnityEngine;

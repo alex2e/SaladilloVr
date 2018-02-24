@@ -1,7 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿///////////////////////////////////////////
+/// Práctica: SaladilloVr
+/// Alumno/a: Alejandro Santillana
+/// Curso: 2017/2018
+/// Fichero: MovementDisc.cs
+///////////////////////////////////////////
+
 using UnityEngine;
-using UnityEngine.Assertions.Comparers;
+
 
 public class MovementDisc : MonoBehaviour
 {

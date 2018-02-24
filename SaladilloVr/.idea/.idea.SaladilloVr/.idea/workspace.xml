@@ -11,20 +11,227 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MoveJostick.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SetButtonText.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1519470679343" expanded="true" signature="0:199" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470679343" expanded="false" signature="207:241" ph="..." />
+                <marker date="1519470679343" expanded="true" signature="285:549" ph="{...}" />
+                <marker date="1519470679343" expanded="true" signature="380:432" ph="{...}" />
+                <marker date="1519470679343" expanded="true" signature="487:494" ph="{...}" />
+                <marker date="1519470679343" expanded="true" signature="516:547" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SphereScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1519470692805" expanded="true" signature="0:198" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470692805" expanded="true" signature="261:1208" ph="{...}" />
+                <marker date="1519470692805" expanded="true" signature="265:350" ph="/// Material de la esfera cuando no está siendo mirada ... " />
+                <marker date="1519470692805" expanded="true" signature="385:467" ph="/// Material de la esfera cuando está siendo mirada ... " />
+                <marker date="1519470692805" expanded="true" signature="509:651" ph="/// Cuando se inicia el Script. ... " />
+                <marker date="1519470692805" expanded="true" signature="666:727" ph="{...}" />
+                <marker date="1519470692805" expanded="true" signature="729:869" ph="/// Cuando se empieza a mirar la esfera. ... " />
+                <marker date="1519470692805" expanded="true" signature="898:963" ph="{...}" />
+                <marker date="1519470692805" expanded="true" signature="967:1114" ph="/// Cuando se deja de mirar la esfera. ... " />
+                <marker date="1519470692805" expanded="true" signature="1146:1206" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1519470524061" expanded="true" signature="31:952" ph="{...}" />
+                <marker date="1519470524061" expanded="true" signature="38:105" ph="/// Clave para la dirección IP ... " />
+                <marker date="1519470524061" expanded="true" signature="161:244" ph="/// Variable para amacenar la IP de la Web API ... " />
+                <marker date="1519470524061" expanded="true" signature="284:402" ph="/// Constante con la URL del método de la WEB API para comprobar la conectividad. ... " />
+                <marker date="1519470524061" expanded="true" signature="528:637" ph="/// Constante con la URL del método de la WEB API para obtener clientes. ... " />
+                <marker date="1519470524061" expanded="true" signature="741:851" ph="/// Constante con la URL del método de la WEB API que guarda los clientes ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadButtonScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1519470808380" expanded="true" signature="0:202" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470808380" expanded="true" signature="210:314" ph="..." />
+                <marker date="1519470808380" expanded="true" signature="362:2480" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="366:459" ph="/// Objeto donde se va a crear la información de los clientes. ... " />
+                <marker date="1519470808380" expanded="true" signature="493:563" ph="/// Objeto que se crea para un cliente. ... " />
+                <marker date="1519470808380" expanded="true" signature="594:680" ph="/// Método que se ejecuta cuando se pulsa el botón Load ... " />
+                <marker date="1519470808380" expanded="true" signature="701:724" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="728:863" ph="/// Obtiene la lista de Clientes ... " />
+                <marker date="1519470808380" expanded="true" signature="891:935" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="971:1943" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="1117:1940" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="1225:1936" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="1417:1931" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="1949:2478" ph="Entidades" />
+                <marker date="1519470808380" expanded="true" signature="1968:2003" ph="///  ... " />
+                <marker date="1519470808380" expanded="true" signature="2028:2223" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="2034:2193" ph="/// El nombre del parametro que representa la lista tiene que coincidir con el nombre de la lista que te devuelve ... " />
+                <marker date="1519470808380" expanded="true" signature="2227:2262" ph="///  ... " />
+                <marker date="1519470808380" expanded="true" signature="2299:2464" ph="{...}" />
+                <marker date="1519470808380" expanded="true" signature="2306:2359" ph="/// DNI del cliente. ... " />
+                <marker date="1519470808380" expanded="true" signature="2383:2439" ph="/// Nombre del cliente. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveJostick.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="30" column="113" lean-forward="false" selection-start-line="30" selection-start-column="113" selection-end-line="30" selection-end-column="113" />
+            <state relative-caret-position="34">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
               <folding>
-                <marker date="1519031173088" expanded="false" signature="6:78" ph="..." />
-                <marker date="1519031173088" expanded="true" signature="121:1006" ph="{...}" />
-                <marker date="1519031173088" expanded="true" signature="126:196" ph="/// Máxima velocidad de desplazamiento. ... " />
-                <marker date="1519031173088" expanded="true" signature="231:283" ph="/// Fuerza de empuje. ... " />
-                <marker date="1519031173088" expanded="true" signature="318:395" ph="/// Referencia al Rigibody que queremos mover. ... " />
-                <marker date="1519031173088" expanded="true" signature="440:486" ph="{...}" />
-                <marker date="1519031173088" expanded="true" signature="511:1004" ph="{...}" />
-                <marker date="1519031173088" expanded="true" signature="944:1001" ph="{...}" />
+                <marker date="1519470808391" expanded="true" signature="0:197" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470808391" expanded="true" signature="259:1144" ph="{...}" />
+                <marker date="1519470808391" expanded="true" signature="264:334" ph="/// Máxima velocidad de desplazamiento. ... " />
+                <marker date="1519470808391" expanded="true" signature="369:421" ph="/// Fuerza de empuje. ... " />
+                <marker date="1519470808391" expanded="true" signature="456:533" ph="/// Referencia al Rigibody que queremos mover. ... " />
+                <marker date="1519470808391" expanded="true" signature="578:624" ph="{...}" />
+                <marker date="1519470808391" expanded="true" signature="649:1142" ph="{...}" />
+                <marker date="1519470808391" expanded="true" signature="1082:1139" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovementDisc.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1519470652925" expanded="true" signature="0:198" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470652925" expanded="true" signature="262:1325" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="266:336" ph="/// Máxima velocidad de desplazamiento. ... " />
+                <marker date="1519470652925" expanded="true" signature="371:423" ph="/// Fuerza de empuje. ... " />
+                <marker date="1519470652925" expanded="true" signature="458:526" ph="/// Nos indica si esta siendo mirada. ... " />
+                <marker date="1519470652925" expanded="true" signature="571:648" ph="/// Referencia al Rigibody que queremos mover. ... " />
+                <marker date="1519470652925" expanded="true" signature="727:734" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="794:1016" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="810:1010" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="861:1006" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="1018:1108" ph="/// Acciones a realizar para el eventeo de mirara el disco. ... " />
+                <marker date="1519470652925" expanded="true" signature="1142:1166" ph="{...}" />
+                <marker date="1519470652925" expanded="true" signature="1168:1265" ph="/// Acciones a realizar para el evento de dejar de mirar el disco. ... " />
+                <marker date="1519470652925" expanded="true" signature="1298:1323" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayAnimation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1519470623054" expanded="true" signature="0:199" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470623054" expanded="true" signature="263:1901" ph="{...}" />
+                <marker date="1519470623054" expanded="true" signature="267:345" ph="/// Tiempo que tardará en activarse el puntero. ... " />
+                <marker date="1519470623054" expanded="true" signature="382:459" ph="/// Indica si el puntero está sobre el objeto. ... " />
+                <marker date="1519470623054" expanded="true" signature="492:563" ph="/// Indica si la acción se ha realizado. ... " />
+                <marker date="1519470623054" expanded="true" signature="597:665" ph="/// Objeto que contiene la animación. ... " />
+                <marker date="1519470623054" expanded="true" signature="746:1354" ph="{...}" />
+                <marker date="1519470623054" expanded="true" signature="1091:1351" ph="{...}" />
+                <marker date="1519470623054" expanded="true" signature="1358:1447" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+                <marker date="1519470623054" expanded="true" signature="1473:1645" ph="{...}" />
+                <marker date="1519470623054" expanded="true" signature="1649:1737" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
+                <marker date="1519470623054" expanded="true" signature="1761:1899" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1519470808349" expanded="true" signature="0:196" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470808349" expanded="true" signature="204:308" ph="..." />
+                <marker date="1519470808349" expanded="true" signature="349:2330" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="354:438" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+                <marker date="1519470808349" expanded="true" signature="470:557" ph="/// Objeto que indica que no se ha establecido conexión. ... " />
+                <marker date="1519470808349" expanded="true" signature="594:682" ph="/// Objeto con la dirección IP introducida por el usuario ... " />
+                <marker date="1519470808349" expanded="true" signature="753:760" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="815:822" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="825:1048" ph="/// Método que se ejecuta cuando se pulsa el botón save ... " />
+                <marker date="1519470808349" expanded="true" signature="1069:1409" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="1413:1599" ph="/// Comprueba si existe conexión con la WEB API ... " />
+                <marker date="1519470808349" expanded="true" signature="1633:1684" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="1724:2327" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="1918:2324" ph="{...}" />
+                <marker date="1519470808349" expanded="true" signature="2005:2221" ph="/* Coprueba el valor devuelto por el método. Si la respuesta es correcta, activa el objeto que ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScrollDown.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <marker date="1519470664886" expanded="true" signature="0:196" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470664886" expanded="true" signature="258:425" ph="{...}" />
+                <marker date="1519470664886" expanded="true" signature="308:361" ph="{...}" />
+                <marker date="1519470664886" expanded="true" signature="416:423" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomPointerTimer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <marker date="1519470808363" expanded="true" signature="0:146" ph="/* Práctica: SaladilloVr ... */" />
+                <marker date="1519470808363" expanded="true" signature="153:187" ph="..." />
+                <marker date="1519470808363" expanded="true" signature="235:2338" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="239:313" ph="///Objeto compartido por todos los Scripts. ... " />
+                <marker date="1519470808363" expanded="true" signature="354:470" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+                <marker date="1519470808363" expanded="true" signature="504:552" ph="/// Temporizador. ... " />
+                <marker date="1519470808363" expanded="true" signature="581:657" ph="/// Componente Image de la imagen de relleno. ... " />
+                <marker date="1519470808363" expanded="true" signature="681:737" ph="/// Cuando está contando. ... " />
+                <marker date="1519470808363" expanded="true" signature="837:902" ph="/// Indica si ha llegado al final. ... " />
+                <marker date="1519470808363" expanded="true" signature="953:1016" ph="/// Se invoca antes de que Start ... " />
+                <marker date="1519470808363" expanded="true" signature="1032:1278" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1103:1195" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1297:1947" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1314:1671" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1678:1789" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1874:1944" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="1951:2104" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+                <marker date="1519470808363" expanded="true" signature="2143:2206" ph="{...}" />
+                <marker date="1519470808363" expanded="true" signature="2210:2266" ph="/// Para el temporizador. ... " />
+                <marker date="1519470808363" expanded="true" signature="2294:2336" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,23 +240,55 @@
     </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/73/660299fa/EventSystem.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/db/079d2e1a/ExecuteEvents.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/3f/adc5951f/EventTrigger.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/f3/9bd78050/UnityEvent`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/be/9858cc84/InvokableCall.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/ClientButtonScript.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/ButtonGazeCick.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/CustomPointerTimer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClientButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/0a/cfc1beb8/StackTraceUtility.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonDeleteConsoleScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonDeleteConsoleScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClientButtonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" />
       </list>
     </option>
   </component>
@@ -59,11 +298,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="185" />
-    <option name="y" value="241" />
-    <option name="width" value="1440" />
-    <option name="height" value="785" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="30" />
+    <option name="width" value="1294" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -86,6 +325,17 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SaladilloVr (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SaladilloVr (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SaladilloVr (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -133,11 +383,23 @@
       <workItem from="1518700036893" duration="1579000" />
       <workItem from="1518765971953" duration="2742000" />
       <workItem from="1519028259001" duration="2371000" />
+      <workItem from="1519112271729" duration="5289000" />
+      <workItem from="1519215558521" duration="5000" />
+      <workItem from="1519215653718" duration="3000" />
+      <workItem from="1519464426176" duration="11000" />
+      <workItem from="1519464494991" duration="103000" />
+      <workItem from="1519464648984" duration="206000" />
+      <workItem from="1519467712830" duration="61000" />
+      <workItem from="1519467794807" duration="3000" />
+      <workItem from="1519467880100" duration="56000" />
+      <workItem from="1519467950313" duration="201000" />
+      <workItem from="1519468224888" duration="950000" />
+      <workItem from="1519470085169" duration="1325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7917000" />
+    <option name="totallyTimeSpent" value="16130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,7 +411,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="26" width="1938" height="1063" extended-state="6" />
+    <frame x="-7" y="30" width="1294" height="1057" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -159,7 +421,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25899842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -182,37 +444,116 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClientButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClientButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
-            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
-            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
-            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
-            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -220,20 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1518767783778" expanded="true" signature="0:131" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767783778" expanded="true" signature="195:1833" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
-            <marker date="1518767783778" expanded="true" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
-            <marker date="1518767783778" expanded="true" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
-            <marker date="1518767783778" expanded="true" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
-            <marker date="1518767783778" expanded="true" signature="678:1286" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1023:1283" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
-            <marker date="1518767783778" expanded="true" signature="1405:1577" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
-            <marker date="1518767783778" expanded="true" signature="1693:1831" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -241,28 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
-            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
-            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
-            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
-            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -277,20 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -301,92 +592,389 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/be/9858cc84/InvokableCall.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="175">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C6E678F-89EB-47B6-AF3E-C5F8B3C4C23B/f3/9bd78050/UnityEvent`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/3f/adc5951f/EventTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="75" column="6" lean-forward="false" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/db/079d2e1a/ExecuteEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="344" column="10" lean-forward="false" selection-start-line="344" selection-start-column="10" selection-end-line="344" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A238D5C0-BB61-4712-BEBA-98C775236271/73/660299fa/EventSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="346" column="5" lean-forward="true" selection-start-line="346" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/ClientButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Escritorio/FinalSaladilloVR/Assets/Scripts/ButtonGazeCick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClearConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="34" />
           <folding>
-            <marker date="1519028807814" expanded="true" signature="6:118" ph="..." />
-            <marker date="1519028807814" expanded="true" signature="161:1224" ph="{...}" />
-            <marker date="1519028807814" expanded="false" signature="165:235" ph="/// Máxima velocidad de desplazamiento. ... " />
-            <marker date="1519028807814" expanded="false" signature="270:322" ph="/// Fuerza de empuje. ... " />
-            <marker date="1519028807814" expanded="false" signature="357:425" ph="/// Nos indica si esta siendo mirada. ... " />
-            <marker date="1519028807814" expanded="false" signature="470:547" ph="/// Referencia al Rigibody que queremos mover. ... " />
-            <marker date="1519028807814" expanded="true" signature="626:633" ph="{...}" />
-            <marker date="1519028807814" expanded="true" signature="693:915" ph="{...}" />
-            <marker date="1519028807814" expanded="true" signature="709:909" ph="{...}" />
-            <marker date="1519028807814" expanded="true" signature="760:905" ph="{...}" />
-            <marker date="1519028807814" expanded="false" signature="917:1007" ph="/// Acciones a realizar para el eventeo de mirara el disco. ... " />
-            <marker date="1519028807814" expanded="true" signature="1041:1065" ph="{...}" />
-            <marker date="1519028807814" expanded="false" signature="1067:1164" ph="/// Acciones a realizar para el evento de dejar de mirar el disco. ... " />
-            <marker date="1519028807814" expanded="true" signature="1197:1222" ph="{...}" />
+            <marker date="1519470704417" expanded="true" signature="0:210" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470704417" expanded="false" signature="217:251" ph="..." />
+            <marker date="1519470704417" expanded="true" signature="307:481" ph="{...}" />
+            <marker date="1519470704417" expanded="true" signature="377:429" ph="{...}" />
+            <marker date="1519470704417" expanded="true" signature="451:479" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding>
-            <marker date="1518767783778" expanded="true" signature="0:131" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767783778" expanded="true" signature="195:1833" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="199:277" ph="/// Tiempo que tardará en activarse el puntero. ... " />
-            <marker date="1518767783778" expanded="true" signature="314:391" ph="/// Indica si el puntero está sobre el objeto. ... " />
-            <marker date="1518767783778" expanded="true" signature="424:495" ph="/// Indica si la acción se ha realizado. ... " />
-            <marker date="1518767783778" expanded="true" signature="529:597" ph="/// Objeto que contiene la animación. ... " />
-            <marker date="1518767783778" expanded="true" signature="678:1286" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1023:1283" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1290:1379" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
-            <marker date="1518767783778" expanded="true" signature="1405:1577" ph="{...}" />
-            <marker date="1518767783778" expanded="true" signature="1581:1669" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
-            <marker date="1518767783778" expanded="true" signature="1693:1831" ph="{...}" />
+            <marker date="1519470747270" expanded="true" signature="0:197" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747270" expanded="true" signature="258:556" ph="{...}" />
+            <marker date="1519470747270" expanded="true" signature="262:349" ph="/// GameObject que se modifica cuando se pulsa el botón. ... " />
+            <marker date="1519470747270" expanded="true" signature="437:554" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1519470747225" expanded="true" signature="0:201" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747225" expanded="false" signature="209:243" ph="..." />
+            <marker date="1519470747225" expanded="true" signature="290:1848" ph="{...}" />
+            <marker date="1519470747225" expanded="true" signature="293:359" ph="/// Indica el tiempo de activación. ... " />
+            <marker date="1519470747225" expanded="true" signature="396:456" ph="/// Indica si está mirandose. ... " />
+            <marker date="1519470747225" expanded="true" signature="489:560" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1519470747225" expanded="true" signature="641:648" ph="{...}" />
+            <marker date="1519470747225" expanded="true" signature="703:1301" ph="{...}" />
+            <marker date="1519470747225" expanded="true" signature="1048:1298" ph="{...}" />
+            <marker date="1519470747225" expanded="true" signature="1305:1394" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+            <marker date="1519470747225" expanded="true" signature="1420:1592" ph="{...}" />
+            <marker date="1519470747225" expanded="true" signature="1596:1684" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
+            <marker date="1519470747225" expanded="true" signature="1708:1846" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClientButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1519470747213" expanded="true" signature="0:204" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747213" expanded="true" signature="211:301" ph="..." />
+            <marker date="1519470747213" expanded="true" signature="351:1278" ph="{...}" />
+            <marker date="1519470747213" expanded="true" signature="355:434" ph="/// Método para el click de nuestro ClientButton ... " />
+            <marker date="1519470747213" expanded="true" signature="455:476" ph="{...}" />
+            <marker date="1519470747213" expanded="true" signature="479:601" ph="/// Llama a una corrutina que conecta con la WEBAPI para guardar la información del cliente ... " />
+            <marker date="1519470747213" expanded="true" signature="627:670" ph="{...}" />
+            <marker date="1519470747213" expanded="true" signature="712:1276" ph="{...}" />
+            <marker date="1519470747213" expanded="true" signature="1140:1273" ph="{...}" />
+            <marker date="1519470747213" expanded="true" signature="1211:1269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1519470747239" expanded="true" signature="0:205" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747239" expanded="true" signature="213:317" ph="..." />
+            <marker date="1519470747239" expanded="true" signature="367:1929" ph="{...}" />
+            <marker date="1519470747239" expanded="true" signature="371:455" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1519470747239" expanded="true" signature="487:574" ph="/// Objeto que indica que no se ha establecido conexión. ... " />
+            <marker date="1519470747239" expanded="true" signature="656:949" ph="{...}" />
+            <marker date="1519470747239" expanded="true" signature="952:1138" ph="/// Comprueba si existe conexión con la WEB API ... " />
+            <marker date="1519470747239" expanded="true" signature="1172:1223" ph="{...}" />
+            <marker date="1519470747239" expanded="true" signature="1263:1866" ph="{...}" />
+            <marker date="1519470747239" expanded="true" signature="1457:1863" ph="{...}" />
+            <marker date="1519470747239" expanded="true" signature="1544:1760" ph="/* Coprueba el valor devuelto por el método. Si la respuesta es correcta, activa el objeto que ... */" />
+            <marker date="1519470747239" expanded="true" signature="1920:1927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonDeleteConsoleScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1519470747252" expanded="true" signature="0:211" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747252" expanded="true" signature="218:252" ph="..." />
+            <marker date="1519470747252" expanded="true" signature="309:555" ph="{...}" />
+            <marker date="1519470747252" expanded="true" signature="405:455" ph="{...}" />
+            <marker date="1519470747252" expanded="true" signature="477:553" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="33" />
           <folding>
-            <marker date="1518767883771" expanded="true" signature="0:135" ph="/* Alejandro Santillana Ruiz ... */" />
-            <marker date="1518767883771" expanded="false" signature="142:176" ph="..." />
-            <marker date="1518767883771" expanded="true" signature="224:2327" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="228:302" ph="///Objeto compartido por todos los Scripts. ... " />
-            <marker date="1518767883771" expanded="true" signature="343:459" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
-            <marker date="1518767883771" expanded="true" signature="493:541" ph="/// Temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="570:646" ph="/// Componente Image de la imagen de relleno. ... " />
-            <marker date="1518767883771" expanded="true" signature="670:726" ph="/// Cuando está contando. ... " />
-            <marker date="1518767883771" expanded="true" signature="826:891" ph="/// Indica si ha llegado al final. ... " />
-            <marker date="1518767883771" expanded="true" signature="942:1005" ph="/// Se invoca antes de que Start ... " />
-            <marker date="1518767883771" expanded="true" signature="1021:1267" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1092:1184" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1286:1936" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1303:1660" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1667:1778" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1863:1933" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="1940:2093" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
-            <marker date="1518767883771" expanded="true" signature="2132:2195" ph="{...}" />
-            <marker date="1518767883771" expanded="true" signature="2199:2255" ph="/// Para el temporizador. ... " />
-            <marker date="1518767883771" expanded="true" signature="2283:2325" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="0:146" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470808363" expanded="true" signature="153:187" ph="..." />
+            <marker date="1519470808363" expanded="true" signature="235:2338" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="239:313" ph="///Objeto compartido por todos los Scripts. ... " />
+            <marker date="1519470808363" expanded="true" signature="354:470" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1519470808363" expanded="true" signature="504:552" ph="/// Temporizador. ... " />
+            <marker date="1519470808363" expanded="true" signature="581:657" ph="/// Componente Image de la imagen de relleno. ... " />
+            <marker date="1519470808363" expanded="true" signature="681:737" ph="/// Cuando está contando. ... " />
+            <marker date="1519470808363" expanded="true" signature="837:902" ph="/// Indica si ha llegado al final. ... " />
+            <marker date="1519470808363" expanded="true" signature="953:1016" ph="/// Se invoca antes de que Start ... " />
+            <marker date="1519470808363" expanded="true" signature="1032:1278" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1103:1195" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1297:1947" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1314:1671" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1678:1789" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1874:1944" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="1951:2104" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+            <marker date="1519470808363" expanded="true" signature="2143:2206" ph="{...}" />
+            <marker date="1519470808363" expanded="true" signature="2210:2266" ph="/// Para el temporizador. ... " />
+            <marker date="1519470808363" expanded="true" signature="2294:2336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519470524061" expanded="true" signature="31:952" ph="{...}" />
+            <marker date="1519470524061" expanded="true" signature="38:105" ph="/// Clave para la dirección IP ... " />
+            <marker date="1519470524061" expanded="true" signature="161:244" ph="/// Variable para amacenar la IP de la Web API ... " />
+            <marker date="1519470524061" expanded="true" signature="284:402" ph="/// Constante con la URL del método de la WEB API para comprobar la conectividad. ... " />
+            <marker date="1519470524061" expanded="true" signature="528:637" ph="/// Constante con la URL del método de la WEB API para obtener clientes. ... " />
+            <marker date="1519470524061" expanded="true" signature="741:851" ph="/// Constante con la URL del método de la WEB API que guarda los clientes ... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJostick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="30" column="113" lean-forward="false" selection-start-line="30" selection-start-column="113" selection-end-line="30" selection-end-column="113" />
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding>
-            <marker date="1519031173088" expanded="false" signature="6:78" ph="..." />
-            <marker date="1519031173088" expanded="true" signature="121:1006" ph="{...}" />
-            <marker date="1519031173088" expanded="true" signature="126:196" ph="/// Máxima velocidad de desplazamiento. ... " />
-            <marker date="1519031173088" expanded="true" signature="231:283" ph="/// Fuerza de empuje. ... " />
-            <marker date="1519031173088" expanded="true" signature="318:395" ph="/// Referencia al Rigibody que queremos mover. ... " />
-            <marker date="1519031173088" expanded="true" signature="440:486" ph="{...}" />
-            <marker date="1519031173088" expanded="true" signature="511:1004" ph="{...}" />
-            <marker date="1519031173088" expanded="true" signature="944:1001" ph="{...}" />
+            <marker date="1519470808391" expanded="true" signature="0:197" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470808391" expanded="true" signature="259:1144" ph="{...}" />
+            <marker date="1519470808391" expanded="true" signature="264:334" ph="/// Máxima velocidad de desplazamiento. ... " />
+            <marker date="1519470808391" expanded="true" signature="369:421" ph="/// Fuerza de empuje. ... " />
+            <marker date="1519470808391" expanded="true" signature="456:533" ph="/// Referencia al Rigibody que queremos mover. ... " />
+            <marker date="1519470808391" expanded="true" signature="578:624" ph="{...}" />
+            <marker date="1519470808391" expanded="true" signature="649:1142" ph="{...}" />
+            <marker date="1519470808391" expanded="true" signature="1082:1139" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1519470652925" expanded="true" signature="0:198" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470652925" expanded="true" signature="262:1325" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="266:336" ph="/// Máxima velocidad de desplazamiento. ... " />
+            <marker date="1519470652925" expanded="true" signature="371:423" ph="/// Fuerza de empuje. ... " />
+            <marker date="1519470652925" expanded="true" signature="458:526" ph="/// Nos indica si esta siendo mirada. ... " />
+            <marker date="1519470652925" expanded="true" signature="571:648" ph="/// Referencia al Rigibody que queremos mover. ... " />
+            <marker date="1519470652925" expanded="true" signature="727:734" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="794:1016" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="810:1010" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="861:1006" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="1018:1108" ph="/// Acciones a realizar para el eventeo de mirara el disco. ... " />
+            <marker date="1519470652925" expanded="true" signature="1142:1166" ph="{...}" />
+            <marker date="1519470652925" expanded="true" signature="1168:1265" ph="/// Acciones a realizar para el evento de dejar de mirar el disco. ... " />
+            <marker date="1519470652925" expanded="true" signature="1298:1323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1519470623054" expanded="true" signature="0:199" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470623054" expanded="true" signature="263:1901" ph="{...}" />
+            <marker date="1519470623054" expanded="true" signature="267:345" ph="/// Tiempo que tardará en activarse el puntero. ... " />
+            <marker date="1519470623054" expanded="true" signature="382:459" ph="/// Indica si el puntero está sobre el objeto. ... " />
+            <marker date="1519470623054" expanded="true" signature="492:563" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1519470623054" expanded="true" signature="597:665" ph="/// Objeto que contiene la animación. ... " />
+            <marker date="1519470623054" expanded="true" signature="746:1354" ph="{...}" />
+            <marker date="1519470623054" expanded="true" signature="1091:1351" ph="{...}" />
+            <marker date="1519470623054" expanded="true" signature="1358:1447" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+            <marker date="1519470623054" expanded="true" signature="1473:1645" ph="{...}" />
+            <marker date="1519470623054" expanded="true" signature="1649:1737" ph="/// Método que llamaremos desde EventTrigger PointerExit. ... " />
+            <marker date="1519470623054" expanded="true" signature="1761:1899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1519470808380" expanded="true" signature="0:202" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470808380" expanded="true" signature="210:314" ph="..." />
+            <marker date="1519470808380" expanded="true" signature="362:2480" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="366:459" ph="/// Objeto donde se va a crear la información de los clientes. ... " />
+            <marker date="1519470808380" expanded="true" signature="493:563" ph="/// Objeto que se crea para un cliente. ... " />
+            <marker date="1519470808380" expanded="true" signature="594:680" ph="/// Método que se ejecuta cuando se pulsa el botón Load ... " />
+            <marker date="1519470808380" expanded="true" signature="701:724" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="728:863" ph="/// Obtiene la lista de Clientes ... " />
+            <marker date="1519470808380" expanded="true" signature="891:935" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="971:1943" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="1117:1940" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="1225:1936" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="1417:1931" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="1949:2478" ph="Entidades" />
+            <marker date="1519470808380" expanded="true" signature="1968:2003" ph="///  ... " />
+            <marker date="1519470808380" expanded="true" signature="2028:2223" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="2034:2193" ph="/// El nombre del parametro que representa la lista tiene que coincidir con el nombre de la lista que te devuelve ... " />
+            <marker date="1519470808380" expanded="true" signature="2227:2262" ph="///  ... " />
+            <marker date="1519470808380" expanded="true" signature="2299:2464" ph="{...}" />
+            <marker date="1519470808380" expanded="true" signature="2306:2359" ph="/// DNI del cliente. ... " />
+            <marker date="1519470808380" expanded="true" signature="2383:2439" ph="/// Nombre del cliente. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1519470808349" expanded="true" signature="0:196" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470808349" expanded="true" signature="204:308" ph="..." />
+            <marker date="1519470808349" expanded="true" signature="349:2330" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="354:438" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1519470808349" expanded="true" signature="470:557" ph="/// Objeto que indica que no se ha establecido conexión. ... " />
+            <marker date="1519470808349" expanded="true" signature="594:682" ph="/// Objeto con la dirección IP introducida por el usuario ... " />
+            <marker date="1519470808349" expanded="true" signature="753:760" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="815:822" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="825:1048" ph="/// Método que se ejecuta cuando se pulsa el botón save ... " />
+            <marker date="1519470808349" expanded="true" signature="1069:1409" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="1413:1599" ph="/// Comprueba si existe conexión con la WEB API ... " />
+            <marker date="1519470808349" expanded="true" signature="1633:1684" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="1724:2327" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="1918:2324" ph="{...}" />
+            <marker date="1519470808349" expanded="true" signature="2005:2221" ph="/* Coprueba el valor devuelto por el método. Si la respuesta es correcta, activa el objeto que ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1519470664886" expanded="true" signature="0:196" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470664886" expanded="true" signature="258:425" ph="{...}" />
+            <marker date="1519470664886" expanded="true" signature="308:361" ph="{...}" />
+            <marker date="1519470664886" expanded="true" signature="416:423" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1519470679343" expanded="true" signature="0:199" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470679343" expanded="false" signature="207:241" ph="..." />
+            <marker date="1519470679343" expanded="true" signature="285:549" ph="{...}" />
+            <marker date="1519470679343" expanded="true" signature="380:432" ph="{...}" />
+            <marker date="1519470679343" expanded="true" signature="487:494" ph="{...}" />
+            <marker date="1519470679343" expanded="true" signature="516:547" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1519470692805" expanded="true" signature="0:198" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470692805" expanded="true" signature="261:1208" ph="{...}" />
+            <marker date="1519470692805" expanded="true" signature="265:350" ph="/// Material de la esfera cuando no está siendo mirada ... " />
+            <marker date="1519470692805" expanded="true" signature="385:467" ph="/// Material de la esfera cuando está siendo mirada ... " />
+            <marker date="1519470692805" expanded="true" signature="509:651" ph="/// Cuando se inicia el Script. ... " />
+            <marker date="1519470692805" expanded="true" signature="666:727" ph="{...}" />
+            <marker date="1519470692805" expanded="true" signature="729:869" ph="/// Cuando se empieza a mirar la esfera. ... " />
+            <marker date="1519470692805" expanded="true" signature="898:963" ph="{...}" />
+            <marker date="1519470692805" expanded="true" signature="967:1114" ph="/// Cuando se deja de mirar la esfera. ... " />
+            <marker date="1519470692805" expanded="true" signature="1146:1206" ph="{...}" />
           </folding>
         </state>
       </provider>

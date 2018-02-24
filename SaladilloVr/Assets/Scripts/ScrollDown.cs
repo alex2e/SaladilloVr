@@ -1,8 +1,10 @@
-﻿///////////////////////////////
-// Alejandro Santillana Ruiz
-// Curso 2017-2018
-// CustomPointerTime.cs
-///////////////////////////////
+﻿///////////////////////////////////////////
+/// Práctica: SaladilloVr
+/// Alumno/a: Alejandro Santillana
+/// Curso: 2017/2018
+/// Fichero: ScrollDown.cs
+///////////////////////////////////////////
+
 using UnityEngine;
 
 public class ScrollDown : MonoBehaviour {

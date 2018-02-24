@@ -360,11 +360,21 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="ButtonClearConsoleScript.cs" t="Include" />
+          <e p="ButtonClick.cs" t="Include" />
+          <e p="ButtonDeleteConsoleScript.cs" t="Include" />
+          <e p="ButtonGazeClick.cs" t="Include" />
+          <e p="ClientButtonScript.cs" t="Include" />
+          <e p="ConfigurationScript.cs" t="Include" />
           <e p="CustomPointerTimer.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="LoadButtonScript.cs" t="Include" />
           <e p="MoveJostick.cs" t="Include" />
           <e p="MovementDisc.cs" t="Include" />
           <e p="PlayAnimation.cs" t="Include" />
+          <e p="SaveScript.cs" t="Include" />
           <e p="ScrollDown.cs" t="Include" />
+          <e p="SetButtonText.cs" t="Include" />
           <e p="SphereScript.cs" t="Include" />
         </e>
       </e>

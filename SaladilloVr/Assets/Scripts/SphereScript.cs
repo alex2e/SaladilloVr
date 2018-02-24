@@ -1,8 +1,10 @@
-﻿///////////////////////////////
-// Alejandro Santillana Ruiz
-// Curso 2017-2018
-// SphereScript.cs
-///////////////////////////////
+﻿///////////////////////////////////////////
+/// Práctica: SaladilloVr
+/// Alumno/a: Alejandro Santillana
+/// Curso: 2017/2018
+/// Fichero: SphereScript.cs
+///////////////////////////////////////////
+
 using UnityEngine;
 
 public class SphereScript : MonoBehaviour
